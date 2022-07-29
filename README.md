@@ -1,6 +1,6 @@
 # Be Dev => Desenvolvendo landing page Bemol
 
-Projeto desenvolvido para o evento Be Dev em parceria da Kenzie Academy com a Bemol nos dias 25,25,27 de Julho de 2022.
+Projeto desenvolvido para o evento Be Dev em parceria da Kenzie Academy com a Bemol nos dias 25, 26, 27 e 28 de Julho de 2022.
 
 ## Ferramentas
 
